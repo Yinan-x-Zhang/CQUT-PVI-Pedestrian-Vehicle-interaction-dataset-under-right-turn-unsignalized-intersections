@@ -9,3 +9,9 @@ Both intersections were shot in the air by DJ-MINI2 UAV, with a flight height of
 The video data was divided into commuting and non-commuting hours, and the weather included cloudy, sunny and cloudy days. Commuting hours were from 5:30 p.m. to 7:00 p.m. and non-commuting hours were from 9:30 a.m. to 11:00 a.m. Three hours per day were collected, for a total of 180 hours. Human-vehicle interactions under peak and lull periods were collected separately. From the large amount of video data, a total of 1000 pedestrians with clear game states were extracted from each scene, for a total of 2000 human-vehicle interaction events and a total of 340,710 data frames.
 
 A total of 4 data sets are included, CP1,CP2,NCP1,NCP2
+
+**Please be patient as the dataset will be subsequently shared as a public dataset in order to promote the progress and collaboration of scientific research in the field of transportation.**
+
+
+
+
