@@ -17,7 +17,7 @@ A total of 4 data sets are included, CP1,CP2,NCP1,NCP2
 
 ![image](https://github.com/Yinan-x-Zhang/CQUT-PVI-Pedestrian-Vehicle-interaction-dataset-under-right-turn-unsignalized-intersections/blob/main/Interaction%20diagram.png)
 
-**Please be patient as the dataset will be subsequently shared as a public dataset in order to promote the progress and collaboration of scientific research in the field of transportation.**
+**We have made the dataset public and the paper will be published in the future, when using the dataset, we hope you can cite our article, thank you!**
 
 
 
