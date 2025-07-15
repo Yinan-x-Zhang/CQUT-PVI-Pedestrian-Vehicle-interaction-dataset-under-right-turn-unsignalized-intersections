@@ -18,9 +18,9 @@ A total of 4 data sets are included, CP1,CP2,NCP1,NCP2. The format of our collec
 
 ![image](https://github.com/Yinan-x-Zhang/CQUT-PVI-Pedestrian-Vehicle-interaction-dataset-under-right-turn-unsignalized-intersections/blob/main/Interaction%20diagram.png)
 
-**The dataset is publicly available. Our paper has been published, and we kindly ask you to cite it when using the dataset. Thank you!**
-A Pedestrian Trajectory Prediction Model for Right-Turn Unsignalized Intersections Based on Game Theory
-DOI: 10.1109/TITS.2024.3398648
+****The dataset is publicly available. Our paper has been published, and we kindly ask you to cite it when using the dataset. Thank you!****
+  A Pedestrian Trajectory Prediction Model for Right-Turn Unsignalized Intersections Based on Game Theory
+  DOI: 10.1109/TITS.2024.3398648
 
 
 
